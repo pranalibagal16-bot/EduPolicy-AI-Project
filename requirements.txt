@@ -1,4 +1,6 @@
 streamlit
+fastapi
+uvicorn
 pypdf
 python-docx
 sentence-transformers
@@ -6,3 +8,4 @@ chromadb
 langchain
 langchain-community
 langchain-text-splitters
+python-multipart
