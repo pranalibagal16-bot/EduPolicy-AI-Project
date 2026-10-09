@@ -331,4 +331,3 @@ if question:
                 f"Question failed ({response.status_code}): "
                 f"{get_error_message(response)}"
             )
-```
