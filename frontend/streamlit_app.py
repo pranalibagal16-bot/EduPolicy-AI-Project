@@ -1,6 +1,6 @@
 import os, requests, streamlit as st
 
-API = os.getenv("API_URL", "http://localhost:8000")
+API = os.getenv("API_URL", "https://edupolicy-ai-backend.onrender.com")
 st.set_page_config(page_title="EduPolicy AI", page_icon="📚", layout="wide")
 
 
